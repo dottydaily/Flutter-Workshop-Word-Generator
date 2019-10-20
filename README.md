@@ -1,6 +1,6 @@
-# myapp
+# Word Generator 
 
-A new Flutter application.
+A workshop from flutter official tutorial.
 
 ## Getting Started
 
